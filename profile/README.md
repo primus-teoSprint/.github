@@ -60,7 +60,7 @@
 
 #### `💻 기술 스택`
 
-**FE:** `nextjs14, typescript, recoil, react-query`
+**FE:** `nextjs14, typescript, jotai, react-query, `
 
 **BE:** `nodejs, express, MongoDB, On-premise Server`
 
@@ -71,20 +71,20 @@
 ```text
 테오의 스프린트: 24.04.06 ~ 24.04.08
 
-2차 개발: 24.05.02 ~
+2차 개발: 24.05.04 ~
 ```
 
 <br />
 
 #### `👻 FE`
 
-해당 프로젝트의 [FE 레포](https://github.com/primus-teoSprint/FE)는 다음에서 보실 수 있습니다.
+해당 프로젝트의 [FE 레포](https://github.com/primus-teoSprint/primus_FE)는 다음에서 보실 수 있습니다.
 
 <br />
 
 #### `👻 BE`
 
-해당 프로젝트의 [BE 레포](https://github.com/primus-teoSprint/BE)는 다음에서 보실 수 있습니다.
+해당 프로젝트의 [BE 레포](https://github.com/primus-teoSprint/primus_BE)는 다음에서 보실 수 있습니다.
 
 <br />
 
